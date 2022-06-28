@@ -1,0 +1,42 @@
+.container{
+    max-width: 920px;
+}
+.row{
+    margin-bottom: 15px;
+}
+.img{
+    height: 35vh;
+    img{
+        height: 80%;
+        width: 100%;
+    }
+    h5{
+        color: rgb(190, 3, 3);
+    }
+    p{
+        margin: 0;
+        font-size: x-small;
+
+    }
+    .text{
+        padding: 0 15px;
+
+    }
+}
+#light_1{
+    
+}
+.none{
+    display: none;
+}   
+.feather{
+    display: flex;
+    .text{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+}
+.modal-dialog{
+    max-width: 70%;
+}

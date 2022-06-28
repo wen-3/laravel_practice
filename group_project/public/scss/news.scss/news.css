@@ -1,0 +1,57 @@
+.container {
+  max-width: 920px;
+}
+
+.row {
+  margin-bottom: 15px;
+}
+
+.img {
+  height: 35vh;
+}
+
+.img img {
+  height: 80%;
+  width: 100%;
+}
+
+.img h5 {
+  color: #be0303;
+}
+
+.img p {
+  margin: 0;
+  font-size: x-small;
+}
+
+.img .text {
+  padding: 0 15px;
+}
+
+.none {
+  display: none;
+}
+
+.feather {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.feather .text {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.modal-dialog {
+  max-width: 70%;
+}
+/*# sourceMappingURL=news.css.map */
